@@ -13,6 +13,6 @@ def long_planeteer_calls(planeteer_calls)
 end
 
 def find_the_chees(are_you_cheese)
-  # the array below is here to help
+  are_you_cheese.include? 
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
